@@ -4284,4 +4284,5 @@ class admin_go_edit:
     def POST(self):
         #handled by admin_go_save
         raise web.seeother('/')        
-
+if __name__ == '__main__':
+    wapp.run()
