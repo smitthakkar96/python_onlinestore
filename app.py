@@ -1,11 +1,11 @@
 #
 # onlinestore-multi
 # simple online store application
-# (c) Noprianto <nop@tedut.com> 
-# 2010
+# (c) smit thakakar smitthakkar96@gmail.com
+# 2015
 # GPL
 # 
-# migrated from MySQL to SQLite on 2013-12-17 
+
 
 
 ################################ IMPORT ################################
